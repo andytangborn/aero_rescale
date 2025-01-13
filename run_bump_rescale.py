@@ -122,7 +122,7 @@ yyyymmdd = 20210227
 executable_stddev='python bump_stddev_rescale.py'
 
 
-OutRoot='/scratch1/NCEPDEV/da/Andrew.Tangborn/JEDI/rescale_files/'
+OutRoot='/scratch1/NCEPDEV/da/Andrew.Tangborn/JEDI/rescale_files_tmp/'
 #OutRoot='/scratch1/NCEPDEV/da/Andrew.Tangborn/JEDI/bump_barre_127/'
 #if stddev_tune_so4 != '1':
 #     add_string = 'stddev'+str(stddev_tune)
